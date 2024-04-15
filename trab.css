@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.menu {
+    color: white;
+}
+.bg-purple {
+    background-color: #268191;
+    
+}
+.text-purple {
+    color: #0d3879;
+}
+
+.btn-voltar {
+    color:  whitesmoke;
+    background-color :#0b3a4d;
+    float:right;
+}
+.btn-voltar:hover {
+    color: #fff;
+    background-color: rgb(90, 159, 180);
+    
+}
+
+header {
+    background-color: #268191;
+    color: #fff;
+    padding: 20px;
+   
+}
+
+.container {
+    max-width: 100%;
+    margin: 15px auto;
+    padding: 20px;
+    
+}
+
+a {
+    display: inline-block;
+    background-color: #0d6b7c;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #555;
+}
+.segpart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/**seg**/
+
+.mapa {
+    width: 50%;
+}
+
+.info {
+    width: 40%;
+    
+    
+text-align: left;
+}
+
+.info h2 {
+    margin-top: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.contatoo {
+    text-align: center;
+    padding: 20px;
+}
+
+.contatoo a {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #333;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+footer {
+    background-color: #057381;
+    color: #fff;
+    padding: 20px 0;
+    text-align: left;
+    
+}
+
+.containerr {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.facebook {
+    background-color: #3b5998; /* Cor do Facebook */
+}
+
+.whatsapp {
+    background-color: #25d366; /* Cor do WhatsApp */
+}
+
+.email {
+    background-color: #ff5733; /* Cor para o E-mail */
+}
+
+
